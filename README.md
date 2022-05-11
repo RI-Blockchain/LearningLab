@@ -16,7 +16,7 @@ This should Typically include below points
 
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [Project Directory](#a-typical-top-level-directory-layout)
+- [Folder Structure](#a-typical-top-level-directory-layout)
 - [Install and Run](#install-and-run)
 - [Documentation](#documentation)
 
