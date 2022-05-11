@@ -16,9 +16,39 @@ This should Typically include below points
 
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [How to Install and Run](#how-to-install-and-run)
+- [Install and Run](#install-and-run)
 - [Documentation](#documentation)
 
 ## Project Description 
-( A short description about the project helps the user to understand the scope)
+### ( A short description about the project helps the user to understand the scope)  
 The Rapid Exchange protocol aim to provide solution for quick exchange of crypto token through smart contract.
+
+## Technologies Used 
+(List of technology or external libraries used)
+- Soldity
+- Openzepplein
+- Hardhat
+
+## A typical top-level directory layout
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
+## Install and Run
+
+( This should include how to install, run and deploy the porject)
+
+- Run `npm install` to install dependencies
+- Run `npx hardhat compile` to compile all contracts
+
+## Test  
+(This should inlcude how to test the files)
+
+## Documents
+(This should have link to the documents which describes the fucntions of contracts. This can be an external Link or PDf stored in project folder)
